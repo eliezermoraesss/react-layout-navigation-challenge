@@ -1,0 +1,32 @@
+.main-nav {
+    padding-left: 40px;
+    min-height: 70px;
+}
+
+.nav-logo-text, .nav-logo-text:hover {
+    color: #00285F;
+}
+
+.main-menu {
+    display: flex;
+    font-size: 18px;
+    width: 380px;
+    justify-content: space-between;
+}
+
+.main-menu a {
+    color: #00285F;
+}
+
+.main-menu a:hover {
+    color: #fff
+}
+
+.main-menu a.active {
+    color: #00285F;
+    font-weight: bold;
+}
+
+#dscatalog-navbar {
+    color: #00285F;
+}
