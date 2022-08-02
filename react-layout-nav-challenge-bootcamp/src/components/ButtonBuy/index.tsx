@@ -1,6 +1,6 @@
 import './styles.css';
 
-const ButtonComprar = () => {
+const ButtonBuy = () => {
   return (
     <div className='btn-container'>
         <button className="btn btn-primary">
@@ -10,4 +10,4 @@ const ButtonComprar = () => {
   );
 };
 
-export default ButtonComprar;
+export default ButtonBuy;

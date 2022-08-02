@@ -9,8 +9,8 @@
 }
 
 .card-top-container img {
-  width: 158px;
-  height: 158px;
+  width: 200px;
+  height: 165px;
 }
 
 .card-bottom-container {
@@ -24,8 +24,9 @@
 }
 
 .card-bottom-container p {
+    margin-top: 14px;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
     color: #585858;
 }

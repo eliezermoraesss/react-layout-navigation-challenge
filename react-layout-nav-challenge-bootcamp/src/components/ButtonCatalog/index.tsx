@@ -1,6 +1,6 @@
 import './styles.css';
 
-const ButtonIcon = () => {
+const ButtonCatalog = () => {
   return (
     <div className='btn-container'>
         <button className="btn btn-primary">
@@ -10,4 +10,4 @@ const ButtonIcon = () => {
   );
 };
 
-export default ButtonIcon;
+export default ButtonCatalog;

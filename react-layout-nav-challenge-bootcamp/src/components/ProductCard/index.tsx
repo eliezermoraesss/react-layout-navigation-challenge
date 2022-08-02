@@ -1,16 +1,16 @@
 import './styles.css';
-import ProductImg from '../../assets/images/main-image.svg';
-import ButtonComprar from '../ButtonComprar'
+import ProductImg from '../../assets/images/audi-supra-tt.png';
+import ButtonBuy from '../ButtonBuy'
 
 const ProductCard = () => {
   return (
     <div className="base-card product-card">
       <div className="card-top-container">
-        <img src={ProductImg} alt="Audi Supra TT :)" />
+        <img src={ProductImg} alt="Audi Supra TT" />
       </div>
       <div className="card-bottom-container">
         <div>
-          <h1>Audi Supra TT</h1>
+          <h6>Audi Supra TT</h6>
         </div>
         <div>
           <p>
@@ -19,7 +19,7 @@ const ProductCard = () => {
           </p>
         </div>
         <div>
-          <ButtonComprar />
+          <ButtonBuy />
         </div>
       </div>
     </div>

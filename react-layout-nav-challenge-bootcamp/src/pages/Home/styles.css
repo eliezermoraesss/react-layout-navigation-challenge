@@ -27,7 +27,7 @@
   .home-content-container p {
     width: 260px;
     color: #fff;
-    font-size: 0.6em;
+    font-size: 14px;
     margin-bottom: 30px;
   }
   
@@ -52,7 +52,7 @@
 
   .button-content-card p {
     margin-top: 9px;
-    font-size: 18px;
+    font-size: 16px;
   }
   
   @media (min-width: 576px) {
