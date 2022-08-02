@@ -8,6 +8,7 @@
   display: flex;
   flex-direction: column-reverse;
   border-radius: 20px;
+  height: 365px;
 }
 
 .home-content-container {
@@ -32,12 +33,13 @@
 }
 
 .home-image-container {
-  padding: 50px 15px;
+  display: flex;
+  justify-content: center;
 }
 
 .home-image-container svg {
-  width: 100%;
-  height: auto;
+  width: 244px;
+  height: 146px;
 }
 
 .button-content-card {
@@ -56,6 +58,9 @@
 }
 
 @media (min-width: 576px) {
+  .home-card {
+    height: 365px;
+  }
   .home-container {
     padding: 15px;
     font-size: 40px;
@@ -64,27 +69,47 @@
   .home-content-container h1 {
     width: 506px;
     margin-bottom: 20px;
+    font-size: 36px;
   }
   .home-content-container p {
-    width: 506px;
+    width: 420px;
     margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 400;
   }
 
   .home-image-container svg {
-    width: 506px;
+    width: 333px;
+    height: 199px;
+  }
+
+  .btn-catalog {
+    margin-left: 85px;
+  }
+
+  .text-catalog {
+    margin-left: 16px;
   }
 
   .button-content-card {
     flex-direction: row;
+    align-content: center;
+    align-items: center;
   }
 }
 
 @media (min-width: 768px) {
-  .home-image-container {
-    padding: 100px 15px;
+  .home-card {
+    height: 475px;
   }
   .home-content-container {
     padding: 20px 20px 100px 20px;
+  }
+  .home-image-container svg {
+    margin-top: 79px;
+  }
+  .btn-catalog {
+    margin-left: 121px;
   }
 }
 
@@ -93,24 +118,26 @@
     font-size: 55px;
     padding: 40px;
   }
-  .home-image-container {
-    padding: 125px 15px;
+  .home-card {
+    height: 579px;
   }
-  .home-content-container {
-    padding: 20px 20px 150px 20px;
+  .home-image-container svg {
+    width: 455px;
+    height: 272px;
   }
   .home-content-container h1 {
     width: 700px;
     margin-bottom: 26px;
   }
   .home-content-container p {
-    width: 700px;
+    width: 420px;
     margin-bottom: 47px;
   }
 }
 
 @media (min-width: 1200px) {
   .home-card {
+    height: 365px;
     flex-direction: row;
     justify-content: space-around;
     padding: calc(((85vh - 480px) / 2) - 30px) 0;
