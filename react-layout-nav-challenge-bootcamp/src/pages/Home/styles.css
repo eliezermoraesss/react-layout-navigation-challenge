@@ -105,6 +105,7 @@
   }
   .home-content-container {
     padding: 20px 20px 100px 20px;
+    align-items: center;
   }
   .home-image-container svg {
     margin-top: 79px;
@@ -140,24 +141,17 @@
   .home-card {
     height: 365px;
     flex-direction: row;
-    justify-content: space-around;
-    padding: calc(((85vh - 480px) / 2) - 30px) 0;
-  }
-  .home-content-container {
-    height: 480px;
-    width: 700px;
-    align-items: flex-start;
     text-align: left;
-    align-content: space-between;
-    flex-flow: wrap;
-    padding: 20px;
-  }
-  .home-image-container {
-    display: flex;
-    align-items: center;
-    padding: 20px;
   }
   .home-image-container svg {
-    width: 100%;
+    width: 333px;
+    height: 199px;
+  }
+  .home-content-container h1 {
+    margin-top: 140px;
+    width: 700px;
+  }
+  .home-content-container p {
+    width: 420px;
   }
 }
