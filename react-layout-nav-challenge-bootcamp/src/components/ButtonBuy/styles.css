@@ -1,5 +1,6 @@
 .btn-container {
   display: flex;
+  width: 100%;
 }
 
 .btn-container button {
@@ -18,15 +19,4 @@
   margin-top: 28px;
   background-color: #00285F;
   border-color: #00285F;
-}
-
-@media (min-width: 576px) {
-  .btn-icon-container {
-    width: 70px;
-    height: 70px;
-  }
-
-  .btn h6 {
-    font-size: 14px;
-  }
 }
