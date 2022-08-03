@@ -1,10 +1,10 @@
-.btn-container {
+.catalog-container {
   display: flex;
-  width: 174px;
 }
 
-.btn-container button {
+.catalog-container button {
   border-radius: 5px;
+  width: 174px;
   height: 40px;
 }
 
