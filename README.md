@@ -2,7 +2,6 @@
 
 Criar um projeto ReactJS que implemente o layout e rotas do design abaixo:<br>
 https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
-<br>
 # Bootcamp React 3.0 - Cap. 07<br>
 ## Layout e navegação<br>
 ## Competências<br>
@@ -15,7 +14,8 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
   <li>Importações
   <li>Uso de imagens
 </ul>
-<br>
+</ul>
+
 ### Layout
 <ul>
   <li>HTML
@@ -27,11 +27,13 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
       <li>Responsividade
     </u>
   <li>Execução de projeto Figma
-  </ul>
-<br>
+ </ul>
+  
 ### Rotas
-<li>React Router DOM
-<li>Rotas e links
+<ul>
+  <li>React Router DOM
+  <li>Rotas e links
+</ul>
 <br><br>
 ## Figma do DSCatalog<br>
 https://www.figma.com/file/cNa2l3TqZXxbU6NBDPruNw/BDS-DSCatalog
