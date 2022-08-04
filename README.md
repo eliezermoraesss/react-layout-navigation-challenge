@@ -23,7 +23,8 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
 <ul><li>Estilização manual
 <li>Flexbox
 <li>Bootstrap
-  <li>Responsividade</u>
+<li>Responsividade
+  </u>
 <li>Execução de projeto Figma
   </ul>
 <br>
