@@ -9,23 +9,24 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
 
 ### ReactJS
 <ul>
-<li>Criação de projeto
-<li>Estrutura do projeto
-<li>Componentes
-<li>Importações
-<li>Uso de imagens
-  </ul>
-  <br>
+  <li>Criação de projeto
+  <li>Estrutura do projeto
+  <li>Componentes
+  <li>Importações
+  <li>Uso de imagens
+</ul>
+<br>
 ### Layout
 <ul>
-<li>HTML
-<li>CSS
-<ul><li>Estilização manual
-<li>Flexbox
-<li>Bootstrap
-<li>Responsividade
-  </u>
-<li>Execução de projeto Figma
+  <li>HTML
+  <li>CSS
+    <ul>
+      <li>Estilização manual
+      <li>Flexbox
+      <li>Bootstrap
+      <li>Responsividade
+    </u>
+  <li>Execução de projeto Figma
   </ul>
 <br>
 ### Rotas
