@@ -25,7 +25,7 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
       <li>Flexbox
       <li>Bootstrap
       <li>Responsividade
-    </u>
+    </ul>
   <li>Execução de projeto Figma
  </ul>
   
@@ -35,5 +35,3 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout<br>
   <li>Rotas e links
 </ul>
 <br><br>
-## Figma do DSCatalog<br>
-https://www.figma.com/file/cNa2l3TqZXxbU6NBDPruNw/BDS-DSCatalog
